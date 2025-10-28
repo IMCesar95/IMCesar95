@@ -20,39 +20,6 @@ Here are some ideas to get you started:
 
 Me chamo César Acassio de Almeida, tenho 30 anos e sou natural de Cachoeira de Minas, Minas gerais 🔺. Formei no ensino médio em 2012, e na epoca sem saber por qual caminho seguir não fiz uma faculdade de imediato, mas comecei a trabalhar em uma loja de manutenção na qual eu me apaixonei pela tecnologia, porem sem muita estrutura na época traçei outros caminhos, mas o destino me colocou novamente na mesma empresa de manutenção onde estou atualmente e agora com mais maturidade estou em busca dos meus objetivos, estou me aperfeiçoando em algumas linguagens para ganhar experiência e conhecimento.  Sou apaixonado por tecnologia e muito embreve estarei fazendo dessa paixão o meu sustento 🙌🏻
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
